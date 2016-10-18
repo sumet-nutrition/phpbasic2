@@ -24,8 +24,14 @@ and open the template in the editor.
             echo '<hr>';
     
 }
-          
-               // echo $car[$x].'<br>';
+            $car2=['Liverpool','Man-U','Man-City'];
+            print_r($car2);
+            echo '<hr>';
+            
+               echo $car2[0].'<br>';
+               
+               //for($x=0;$x < $conut($car2);$x++){
+               // echo $car2[$x].'<hr>';
             
             
         ?>
